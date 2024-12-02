@@ -7,5 +7,5 @@ public class ReservationDTO {
     private String cin;
     private List<PassengerDTO> passengers;
 
-    // Getters and setters
+
 }
